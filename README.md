@@ -71,7 +71,7 @@ You can run the API either directly or using Docker. Choose the method that suit
    docker run -p 80:80 feature-engineering-api
 3. In case you want to stop all Docker containers or a specific container:
     ```bash
-    docker ps  or docker stop container_name_or_id
+    docker ps  || docker stop container_name_or_id
 
 
 ## Checking API health status: 
