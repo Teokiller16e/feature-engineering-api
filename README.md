@@ -79,14 +79,14 @@ You can perform a health status check by making a GET request to the API endpoin
 You can use tools like Postman or curl for testing.
 1. Checking health status:
     ```bash
-    curl http://localhost:8000/health/
+    curl http://localhost:80/health/
 
 ## Performing Feature Engineering: 
 You can perform feature engineering check by making a GET request to the API endpoint /feature_engineering/. 
 You can use tools like Postman or curl for testing.
 1. Feature Engineering:
     ```bash
-    curl http://localhost:8000/feature_engineering/
+    curl http://localhost:80/feature_engineering/
 
 
 ## Sample Data
